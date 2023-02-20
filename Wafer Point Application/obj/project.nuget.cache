@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Yl4qbpymCMdCYQf+gGFJGoMMQ+dKN51OeK21pwkpgXlPtH9YdqeNYkDkaTI9fWpQrmnU69LquS8+dh+4gbiPWQ==",
+  "dgSpecHash": "+0hmfjxTFa5SR0Qzcsbf0VxAbRAirfa9jnMTUrmQuW3l36SzQERwId0V2cEVImFqfaHHfdS6I6DomzqZjy71fA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tokit\\source\\repos\\Wafer Point Application\\Wafer Point Application.csproj",
+  "projectFilePath": "C:\\Users\\tokit\\source\\repos\\Wafer-Point-Example\\Wafer Point Application\\Wafer Point Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tokit\\.nuget\\packages\\oxyplot.core\\2.1.2\\oxyplot.core.2.1.2.nupkg.sha512",
     "C:\\Users\\tokit\\.nuget\\packages\\oxyplot.wpf\\2.1.2\\oxyplot.wpf.2.1.2.nupkg.sha512",

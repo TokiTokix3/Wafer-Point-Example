@@ -59,10 +59,18 @@ namespace Wafer_Point_Application
 
         public string printList(List<Point> pointList)
         {
-            string pointString = "";
+            string pointString = "Ring: 0\n";
             int i = 0;
+            int ring = 1;
+
             foreach (Point point in pointList)
             {
+                if ((i-1) % 8 == 0)
+                {
+                    pointString += "Ring: " + ring.ToString() + "\n";
+                    ring++;
+                }
+                    
                 pointString += "[" + Math.Round(point.x,2) + ", " + Math.Round(point.y, 2) + "] ";
                 if (i % 4 == 0)
                 {
@@ -70,7 +78,6 @@ namespace Wafer_Point_Application
                     if (i % 8 == 0)
                         pointString += "\n";
                 }
-                    
 
                 i++;
             }

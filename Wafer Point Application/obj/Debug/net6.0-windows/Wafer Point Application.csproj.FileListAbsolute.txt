@@ -23,3 +23,28 @@ C:\Users\tokit\source\repos\Wafer Point Application\bin\Debug\net6.0-windows\Oxy
 C:\Users\tokit\source\repos\Wafer Point Application\bin\Debug\net6.0-windows\OxyPlot.Wpf.dll
 C:\Users\tokit\source\repos\Wafer Point Application\bin\Debug\net6.0-windows\OxyPlot.Wpf.Shared.dll
 C:\Users\tokit\source\repos\Wafer Point Application\obj\Debug\net6.0-windows\Wafer Point Application.csproj.CopyComplete
+C:\Users\tokit\source\repos\Wafer-Point-Example\Wafer Point Application\bin\Debug\net6.0-windows\Wafer Point Application.exe
+C:\Users\tokit\source\repos\Wafer-Point-Example\Wafer Point Application\bin\Debug\net6.0-windows\Wafer Point Application.deps.json
+C:\Users\tokit\source\repos\Wafer-Point-Example\Wafer Point Application\bin\Debug\net6.0-windows\Wafer Point Application.runtimeconfig.json
+C:\Users\tokit\source\repos\Wafer-Point-Example\Wafer Point Application\bin\Debug\net6.0-windows\Wafer Point Application.dll
+C:\Users\tokit\source\repos\Wafer-Point-Example\Wafer Point Application\bin\Debug\net6.0-windows\Wafer Point Application.pdb
+C:\Users\tokit\source\repos\Wafer-Point-Example\Wafer Point Application\bin\Debug\net6.0-windows\OxyPlot.dll
+C:\Users\tokit\source\repos\Wafer-Point-Example\Wafer Point Application\bin\Debug\net6.0-windows\OxyPlot.Wpf.dll
+C:\Users\tokit\source\repos\Wafer-Point-Example\Wafer Point Application\bin\Debug\net6.0-windows\OxyPlot.Wpf.Shared.dll
+C:\Users\tokit\source\repos\Wafer-Point-Example\Wafer Point Application\obj\Debug\net6.0-windows\Wafer Point Application.csproj.AssemblyReference.cache
+C:\Users\tokit\source\repos\Wafer-Point-Example\Wafer Point Application\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\tokit\source\repos\Wafer-Point-Example\Wafer Point Application\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\tokit\source\repos\Wafer-Point-Example\Wafer Point Application\obj\Debug\net6.0-windows\Wafer Point Application_MarkupCompile.cache
+C:\Users\tokit\source\repos\Wafer-Point-Example\Wafer Point Application\obj\Debug\net6.0-windows\Wafer Point Application_MarkupCompile.lref
+C:\Users\tokit\source\repos\Wafer-Point-Example\Wafer Point Application\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\tokit\source\repos\Wafer-Point-Example\Wafer Point Application\obj\Debug\net6.0-windows\Wafer Point Application.g.resources
+C:\Users\tokit\source\repos\Wafer-Point-Example\Wafer Point Application\obj\Debug\net6.0-windows\Wafer Point Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tokit\source\repos\Wafer-Point-Example\Wafer Point Application\obj\Debug\net6.0-windows\Wafer Point Application.AssemblyInfoInputs.cache
+C:\Users\tokit\source\repos\Wafer-Point-Example\Wafer Point Application\obj\Debug\net6.0-windows\Wafer Point Application.AssemblyInfo.cs
+C:\Users\tokit\source\repos\Wafer-Point-Example\Wafer Point Application\obj\Debug\net6.0-windows\Wafer Point Application.csproj.CoreCompileInputs.cache
+C:\Users\tokit\source\repos\Wafer-Point-Example\Wafer Point Application\obj\Debug\net6.0-windows\Wafer Point Application.csproj.CopyComplete
+C:\Users\tokit\source\repos\Wafer-Point-Example\Wafer Point Application\obj\Debug\net6.0-windows\Wafer Point Application.dll
+C:\Users\tokit\source\repos\Wafer-Point-Example\Wafer Point Application\obj\Debug\net6.0-windows\refint\Wafer Point Application.dll
+C:\Users\tokit\source\repos\Wafer-Point-Example\Wafer Point Application\obj\Debug\net6.0-windows\Wafer Point Application.pdb
+C:\Users\tokit\source\repos\Wafer-Point-Example\Wafer Point Application\obj\Debug\net6.0-windows\Wafer Point Application.genruntimeconfig.cache
+C:\Users\tokit\source\repos\Wafer-Point-Example\Wafer Point Application\obj\Debug\net6.0-windows\ref\Wafer Point Application.dll

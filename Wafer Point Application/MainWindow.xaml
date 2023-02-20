@@ -6,22 +6,27 @@
         xmlns:local="clr-namespace:Wafer_Point_Application"
         mc:Ignorable="d"
         ResizeMode="NoResize"
-        Title="Wafer Points Diagram" Height="450" Width="800">
+        Title="Wafer Points Diagram" Height="475" Width="875">
     <Canvas Name="myCanvas">
         <TextBlock Text="Input # of points:" FontSize="20" VerticalAlignment="Center" HorizontalAlignment="Left" Canvas.Left="22" Canvas.Top="35"/>
         <TextBox Name="inputBox"  HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Width="50" Height ="20" Canvas.Left="198" Canvas.Top="39"/>
         <Button Name="confirm" Click ="confirm_Click" Width="70" Height="30" 
                 VerticalAlignment="Top" HorizontalAlignment="Left" Content="Submit" FontSize="15" Canvas.Left="108" Canvas.Top="89" />
         <TextBlock Name="underText" FontSize ="15"  TextAlignment="Center" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Canvas.Left="22" Canvas.Top="140"/>
-        <Ellipse HorizontalAlignment="Left" Height="300" Margin="430,57,0,0" Stroke="Black" VerticalAlignment="Top" Width="300"/>
-        <Line X1="474" Y1="101" X2="686" Y2="313" Stroke="Black" StrokeThickness="0.5"/>
-        <Line X1="580" Y1="57" X2="580" Y2="357" Stroke="Black" StrokeThickness="0.5"/>
-        <Line X1="430" Y1="207" X2="730" Y2="207" Stroke="Black" StrokeThickness="0.5"/>
-        <Line X1="686" Y1="101" X2="474" Y2="313" Stroke="Black" StrokeThickness="0.5"/>
-        <ScrollViewer  Height="200" Width="343" Canvas.Left="22" Canvas.Top="194" HorizontalAlignment="Center" VerticalAlignment="Top" >
-            <TextBlock Name="resultPoints" TextWrapping="Wrap"/>
+        <Ellipse HorizontalAlignment="Left" Height="300" Stroke="Black" VerticalAlignment="Top" Width="300" Canvas.Left="476" Canvas.Top="73"/>
+        <Line X1="520" Y1="117" X2="732" Y2="329" Stroke="Black" StrokeThickness="0.5"/>
+        <Line X1="626" Y1="53" X2="626" Y2="393" Stroke="Black" StrokeThickness="0.5"/>
+        <Line X1="456" Y1="223" X2="796" Y2="223" Stroke="Black" StrokeThickness="0.5"/>
+        <Line X1="732" Y1="117" X2="520" Y2="329" Stroke="Black" StrokeThickness="0.5"/>
+        <ScrollViewer  Height="216" Width="356" Canvas.Left="22" Canvas.Top="194" HorizontalAlignment="Left" VerticalAlignment="Center" >
+            <TextBlock Name="resultPoints" TextWrapping="Wrap" Width="322"/>
         </ScrollViewer>
         <TextBlock Canvas.Left="22" TextWrapping="Wrap" FontSize="13" Text="Generated Points" Canvas.Top="172" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <TextBlock Canvas.Left="802" TextWrapping="Wrap" Text="[150,0]" Canvas.Top="215" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <TextBlock Canvas.Left="608" TextWrapping="Wrap" Text="[0,150]" Canvas.Top="33"/>
+        <TextBlock Canvas.Left="412" TextWrapping="Wrap" Text="[-150,0]" Canvas.Top="215"/>
+        <TextBlock Canvas.Left="606" TextWrapping="Wrap" Text="[0,-150]" Canvas.Top="394" RenderTransformOrigin="0.666,0.504" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Border BorderBrush="Black" BorderThickness="1" Height="216" Width="356" Canvas.Left="22" Canvas.Top="194"/>
     </Canvas>
 
 </Window>

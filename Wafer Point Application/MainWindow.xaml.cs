@@ -61,6 +61,11 @@ namespace Wafer_Point_Application
             List<Ellipse> plotPoints = new List<Ellipse>();
             foreach (Point point in pointList)
             {
+                ToolTip tt = new ToolTip
+                {
+                    Content = "[" + Math.Round(point.x, 2) + ", " + Math.Round(point.y, 2) + "] "
+
+                };
                 Ellipse newEllipse = new Ellipse
                 {
                     Width = 7,
@@ -68,9 +73,12 @@ namespace Wafer_Point_Application
                     Fill = Brushes.Red,
                     Stroke = Brushes.Red
                 };
+                ToolTipService.SetInitialShowDelay(newEllipse, 0);
+                ToolTipService.SetBetweenShowDelay(newEllipse, 0);
+                newEllipse.ToolTip = tt;
                 plotPoints.Add(newEllipse);
-                Canvas.SetLeft(newEllipse, 576.5+point.x);
-                Canvas.SetTop(newEllipse, 203.5+point.y);
+                Canvas.SetLeft(newEllipse, 622.5+point.x);
+                Canvas.SetTop(newEllipse, 219.5+point.y);
                 myCanvas.Children.Add(newEllipse);
             }
             return plotPoints;  

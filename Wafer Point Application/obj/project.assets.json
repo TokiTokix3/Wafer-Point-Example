@@ -128,11 +128,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tokit\\source\\repos\\Wafer Point Application\\Wafer Point Application.csproj",
+      "projectUniqueName": "C:\\Users\\tokit\\source\\repos\\Wafer-Point-Example\\Wafer Point Application\\Wafer Point Application.csproj",
       "projectName": "Wafer Point Application",
-      "projectPath": "C:\\Users\\tokit\\source\\repos\\Wafer Point Application\\Wafer Point Application.csproj",
+      "projectPath": "C:\\Users\\tokit\\source\\repos\\Wafer-Point-Example\\Wafer Point Application\\Wafer Point Application.csproj",
       "packagesPath": "C:\\Users\\tokit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tokit\\source\\repos\\Wafer Point Application\\obj\\",
+      "outputPath": "C:\\Users\\tokit\\source\\repos\\Wafer-Point-Example\\Wafer Point Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
