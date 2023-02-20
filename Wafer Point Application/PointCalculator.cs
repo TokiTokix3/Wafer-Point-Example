@@ -71,7 +71,7 @@ namespace Wafer_Point_Application
                     ring++;
                 }
                     
-                pointString += "[" + Math.Round(point.x,2) + ", " + Math.Round(point.y, 2) + "] ";
+                pointString += "[" + (Math.Round(point.x, 2) + 0) + ", " + (Math.Round(point.y, 2) + 0) + "] ";
                 if (i % 4 == 0)
                 {
                     pointString += "\n";

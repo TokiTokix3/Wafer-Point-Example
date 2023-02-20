@@ -63,7 +63,7 @@ namespace Wafer_Point_Application
             {
                 ToolTip tt = new ToolTip
                 {
-                    Content = "[" + Math.Round(point.x, 2) + ", " + Math.Round(point.y, 2) + "] "
+                    Content = "[" + (Math.Round(point.x, 2)+0) + ", " + (Math.Round(point.y, 2) + 0) + "] "
 
                 };
                 Ellipse newEllipse = new Ellipse
