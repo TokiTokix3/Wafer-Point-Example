@@ -78,7 +78,7 @@ namespace Wafer_Point_Application
                 newEllipse.ToolTip = tt;
                 plotPoints.Add(newEllipse);
                 Canvas.SetLeft(newEllipse, 622.5+point.x);
-                Canvas.SetTop(newEllipse, 219.5+point.y);
+                Canvas.SetBottom(newEllipse, 209.5+point.y);
                 myCanvas.Children.Add(newEllipse);
             }
             return plotPoints;  
